@@ -1,8 +1,9 @@
 body {
     background: rgba(159, 150, 150, 0.201);
+    font-family: Garamond, 'Times New Roman', Georgia, Times, serif;
 }
 
-li {
+.recipe-ul li{
     list-style: none;
     margin-bottom: 20px;
 }
