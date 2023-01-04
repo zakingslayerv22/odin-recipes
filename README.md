@@ -7,3 +7,4 @@ A simple HTML index page with 3 links to various recipes.
 + anchor tags (a) (relative paths)
 + img tag with alt attribute (relative paths)
 + ul and ol elements (with li)
++ CSS: Background, font-family, height, width, padding, margin, text-align.
